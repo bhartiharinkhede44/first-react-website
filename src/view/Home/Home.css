@@ -1,0 +1,17 @@
+.home{
+
+    background-color: rgb(247, 233, 233);
+    color: black;
+    display: flex;
+    flex-direction: row;
+}
+.heading{
+    margin: 20px;
+   
+}
+.imghome{
+    height: 70vh;
+    margin-top: 0px;
+
+
+}

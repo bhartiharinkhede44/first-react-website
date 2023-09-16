@@ -1,0 +1,38 @@
+.maincontainer {
+    height: 300px;
+    width: 400px;
+    border-radius: 5px;
+    border: solid;
+    margin-top: 40px;
+    margin-left: 30px;
+  
+}
+.conatainer{
+    display: flex;
+    flex-direction: row;
+
+}
+.image{
+    margin-left: 2px;
+    height: 100px;
+    width: 100px;
+}
+.containcontainer{
+    margin-left: 20px;
+}
+.lastcontainer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+
+}
+.itembtn{
+  margin-left: 55px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: darkgreen;
+}
+.itembtn:hover{
+    background-color: rgb(13, 14, 13);  
+    color: aliceblue;
+}

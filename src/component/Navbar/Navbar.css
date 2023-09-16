@@ -1,0 +1,35 @@
+.nav {
+    background-color: #0e0c0c;
+    color: rgb(3, 123, 123);
+    padding: 10px;
+    font-weight: 800;
+}
+
+.webname {
+    font-weight: 1500px;
+    margin: 10px;
+    color: rgba(222, 216, 217, 0.598);
+   font-family: cursive;
+    padding: 10px;
+    border: solid;
+    border-radius: 10px;
+    background-color: brown;
+
+}
+
+
+.nav a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    padding-inline-start: 200px;
+
+
+    
+}
+
+.active {
+    font-weight: 20000px;
+    color: hsl(249, 100%, 50%) !important;
+}

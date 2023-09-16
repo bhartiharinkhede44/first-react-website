@@ -1,0 +1,33 @@
+.container{
+    
+    background-color: rgb(247, 233, 233);
+    color: black;
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card{
+    height: 500px;
+    background-color: #41343e;
+    border-radius: 5px;
+    border: solid ;
+    color: antiquewhite;
+    width: 600px;
+    padding: 25px;
+    margin-left: 190px;
+    display: inline-block;
+    margin-top: 10px;
+   
+    
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 2px;
+    display: block;
+    margin-left:150px;
+    border: 1px solid black;
+}
